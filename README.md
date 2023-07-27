@@ -1,2 +1,4 @@
 # useful_python
-Some Useful Python scripts.
+Some useful Python scripts.
+
+Have fun!
