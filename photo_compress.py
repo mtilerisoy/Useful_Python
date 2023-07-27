@@ -1,7 +1,7 @@
 import os
 from PIL import Image
 
-def compress(image_file):
+def compress(image_file, quality):
 
     filepath = os.path.join(os.getcwd(), image_file)
 
@@ -10,7 +10,7 @@ def compress(image_file):
     image.save("image-file-compressed",
                  "JPEG",
                  optimize = True,
-                 quality = 65)
+                 quality = quality)
     return
 
-compress("file/path")
+compress("file/path", 65)
