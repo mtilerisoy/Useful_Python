@@ -3,4 +3,4 @@ Some useful Python scripts.
 
 Have fun!
 
-test change.
+photo_compress.py : Compresses a given PNG or JPEG file to a given "quality value"

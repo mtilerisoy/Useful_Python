@@ -13,4 +13,4 @@ def compress(image_file):
                  quality = 65)
     return
 
-compress("/Users/ilerisoy/Desktop/IMG_2543 copy.JPG")
+compress("file/path")
