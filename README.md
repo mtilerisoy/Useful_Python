@@ -1,4 +1,4 @@
-# useful_python
+# Useful_Python
 Some useful Python scripts.
 
 Have fun!
